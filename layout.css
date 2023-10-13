@@ -95,6 +95,12 @@ transition: .5s;
     border: solid .5px grey;
     padding: 7px;
 }
+.ip1::placeholder{
+    color: rgba(146, 145, 145, 0.744);
+}
+.ip2::placeholder{
+    color: rgba(146, 145, 145, 0.744);
+}
 .ip2{
     height: 20px;
     width: 210px;
